@@ -1,3 +1,10 @@
 public class NowaKlasa {
-    // TODO: muszę zrobić c
+
+    /*
+    tu też jest zmiana
+     */
+
+    // To jest zmiana w pliku klasy
+    
+    // TODO: muszę zrobić coś...
 }
